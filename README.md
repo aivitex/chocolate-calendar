@@ -1,6 +1,6 @@
 # AIVITEX - Frontend Test - Chocolate Calendar
 
-A chocolate calendar is a special kind of chocolate box container composed by 31 slots, one for each day of December.
+A chocolate calendar is a special kind of chocolate box container composed by 28 to 31 slots, one for each day of the current month.
 The concept is that one is allowed to get a treat every day before the end of the year, or hold on to it and eat all of the past days at once. But never eat the chocolate from the days ahed.
 
 The goal of this challenge is to create a virtual representation of a winter chocolate calendar, using the this front-end boilerplate and requests to the provided local server.
